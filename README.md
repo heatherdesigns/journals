@@ -5,7 +5,9 @@ Follow along as I share my weekly journals filled with daily tasks. I love lists
 
 * [Week 1]
 * [Week 2]
-* Week 3 - coming soon!
+* [Week 3]
 
 [Week 1]: https://github.com/heatherdesigns/journals/blob/master/0117-0121.md
 [Week 2]: https://github.com/heatherdesigns/journals/blob/master/0122-0128.md
+[Week 3]: https://github.com/heatherdesigns/journals/blob/master/0129-0204.md
+
