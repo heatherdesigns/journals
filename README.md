@@ -1,7 +1,7 @@
 :sparkles: Welcome to Heather's Journal of Sparkbox Adventures!
 ===============================================================
 
-Follow along as I share my weekly journals filled with daily tasks. I love lists. Lists help keep me organized and focused. Intermingled with my daily task lists, you will find items I feel important to reference and review, book reviews and the occassional anecdote or two. Happy reading!! 
+Follow along as I share my weekly journals filled with daily tasks. I love lists. Lists help keep me organized and focused. Intermingled with my daily task lists, you will find items I feel important to reference and review, book reviews and the occasional anecdote or two. Happy reading!!
 
 * [Week 1]
 * [Week 2]
@@ -12,6 +12,7 @@ Follow along as I share my weekly journals filled with daily tasks. I love lists
 * [Week 7]
 * [Week 8]
 * [Week 9]
+* [Week 10]
 
 [Week 1]: https://github.com/heatherdesigns/journals/blob/master/weekly_entries/0117-0121.md
 [Week 2]: https://github.com/heatherdesigns/journals/blob/master/weekly_entries/0122-0128.md
@@ -22,5 +23,4 @@ Follow along as I share my weekly journals filled with daily tasks. I love lists
 [Week 7]: https://github.com/heatherdesigns/journals/blob/master/weekly_entries/0226-0304.md
 [Week 8]: https://github.com/heatherdesigns/journals/blob/master/weekly_entries/0305-0311.md
 [Week 9]: https://github.com/heatherdesigns/journals/blob/master/weekly_entries/0312-0318.md
-
-
+[Week 10]: https://github.com/heatherdesigns/journals/blob/master/weekly_entries/0319-0325.md
