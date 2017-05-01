@@ -17,6 +17,7 @@ Follow along as I share my weekly journals filled with daily tasks. I love lists
 * [Week 12]
 * [Week 13]
 * [Week 14]
+* [Week 15]
 
 [Week 1]: https://github.com/heatherdesigns/journals/blob/master/weekly_entries/0117-0121.md
 [Week 2]: https://github.com/heatherdesigns/journals/blob/master/weekly_entries/0122-0128.md
@@ -32,3 +33,4 @@ Follow along as I share my weekly journals filled with daily tasks. I love lists
 [Week 12]: https://github.com/heatherdesigns/journals/blob/master/weekly_entries/0402-0408.md
 [Week 13]: https://github.com/heatherdesigns/journals/blob/master/weekly_entries/0409-0415.md
 [Week 14]: https://github.com/heatherdesigns/journals/blob/master/weekly_entries/0416-0422.md
+[Week 15]: https://github.com/heatherdesigns/journals/blob/master/weekly_entries/0423-0429.md
